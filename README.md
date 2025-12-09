@@ -1,4 +1,6 @@
-# flask-random-fruit
+# MLOps: CI
+
+## flask-random-fruit
 A flask microservice for generating random fruit!
 Includes continuous integration.
 
